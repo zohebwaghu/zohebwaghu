@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=FFA41B&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Zoheb+Waghu+%F0%9F%91%8B;MS+Data+Analytics+%40+SJSU;Data+Engineer+%7C+AI%2FML+Engineer;Building+LLM+agents+%26+data+pipelines" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=FFA41B&center=true&vCenter=true&width=820&height=90&lines=Hi%2C+I'm+Zoheb+Waghu+%F0%9F%91%8B;MS+Applied+Data+Intelligence+%40+SJSU;Software+Engineer+%7C+AI%2FML+Engineer;Building+LLM+agents+%26+data+pipelines" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 MS in **Data Analytics** at **San José State University** — graduating **Dec 2026**
+- 🎓 MS in **Applied Data Intelligence** at **San José State University** — graduating **May 2027**
 - 💼 **4+ years** in industry at **Capgemini** (data engineering, LLM-powered agent platforms, ML pipelines) and **Leema Electromechanical** (industrial IoT/SCADA, sensor pipelines, edge ML)
 - 🤖 Currently building a robot that learns to fold a new garment from **one human demo video** (capstone: imitation learning, diffusion policies, VLMs)
 - 🏅 **Azure Data Engineer Associate** · **AWS Generative AI Essentials**
